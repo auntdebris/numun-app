@@ -3,7 +3,8 @@ Unlock Creativity, Find Purpose, and Make a Difference
 
 Numun is a mission-driven app that combines personal growth with social impact, helping you unlock your creativity, find your purpose, and contribute to causes that matter. It’s a space for self-discovery and mindful action, where every step forward benefits both you and the world.
 
-With Numun, you can:
+
+#### With Numun, you can:
 
 Unlock Your Creativity: Explore tools and practices designed to nurture your imagination, inspire fresh ideas, and help you think outside the box.
 
